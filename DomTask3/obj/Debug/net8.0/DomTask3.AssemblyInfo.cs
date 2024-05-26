@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DomTask3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c7fe0c39524e8dc01ba3c08ba830c6cd6e7d6db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DomTask3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DomTask3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
